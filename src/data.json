@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Audi Q8",
+        "make": "Audi",
+        "description": "lorem ipsum",
+        "img": "audi-q8.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Audi R8",
+        "make": "Audi",
+        "description": "lorem ipsum",
+        "img": "audi-r8.jpg"
+    },
+    {
+        "id": 3,
+        "name": "BMW M8",
+        "make": "BMW",
+        "description": "lorem ipsum",
+        "img": "bmw-m8.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BMW X5",
+        "make": "BMW",
+        "description": "lorem ipsum",
+        "img": "bmw-x5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ferrari Purosange",
+        "make": "Ferrari",
+        "description": "lorem ipsum",
+        "img": "ferrari-purosangue.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ferrari SP48",
+        "make": "Ferrari",
+        "description": "lorem ipsum",
+        "img": "ferrari-sp48.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lamborghini Huracan",
+        "make": "Lamborghini",
+        "description": "lorem ipsum",
+        "img": "lamborghini-huracan.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Lamborghini Urus",
+        "make": "Lamborghini",
+        "description": "lorem ipsum",
+        "img": "lamborghini-urus.jpg"
+    }
+]
+
+
+
+
